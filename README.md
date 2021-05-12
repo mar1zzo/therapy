@@ -49,12 +49,12 @@ O CS50 é um curso gratuíto e online, estruturado em 12 semanas, oferecido pela
 
 ### 🦊  &nbsp; Visão Geral - Web
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/69127182/102402933-447b4000-3fc4-11eb-961a-d714a7a2703c.png" width="350" height="220"/>
-  <img src="https://user-images.githubusercontent.com/69127182/102273008-6e6b2e80-3f00-11eb-9cbd-de1a916dec81.png" width="350" height="220"/>
+  <img src="https://user-images.githubusercontent.com/69127182/102402933-447b4000-3fc4-11eb-961a-d714a7a2703c.png" width="350" height="215"/>
+  <img src="https://user-images.githubusercontent.com/69127182/102273008-6e6b2e80-3f00-11eb-9cbd-de1a916dec81.png" width="350" height="215"/>
 </p>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/69127182/102402082-07fb1480-3fc3-11eb-8d36-dc48541866ec.png" width="350" height="220"/>
-  <img src="https://user-images.githubusercontent.com/69127182/102273247-ca35b780-3f00-11eb-9f51-e23223aecbab.png" width="350" height="220"/>
+  <img src="https://user-images.githubusercontent.com/69127182/102402082-07fb1480-3fc3-11eb-8d36-dc48541866ec.png" width="350" height="215"/>
+  <img src="https://user-images.githubusercontent.com/69127182/102273247-ca35b780-3f00-11eb-9f51-e23223aecbab.png" width="350" height="215"/>
 </p>
 
 ### 🦊 &nbsp; Visão Geral - Mobile
