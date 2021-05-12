@@ -29,9 +29,11 @@
 
 🦊 &nbsp; Therapy é uma plataforma web criada para facilitar a busca por psicólogos profissionais que façam atendimento gratuito.
 
-🦊 &nbsp; Projeto de conclusão do curso **CS50's Introduction to Computer Science** oferecido por [Harvard University](https://cs50.harvard.edu/x/2021/). Tendo com único objetivo: construir algo de próprio interesse, que resolva um problema real, que cause impacto na comunidade ou que mude o mundo.
+Projeto de conclusão do curso **CS50's Introduction to Computer Science** oferecido por [Harvard University](https://cs50.harvard.edu/x/2021/). 
 
 O CS50 é um curso gratuíto e online, estruturado em 12 semanas, oferecido pela Universidade de Harvard com muito conteúdo prático e desafios que levam o participante a aprender as bases do curso de ciência da computação e a arte da programação. Os tópicos incluem abstração, algoritmos, estruturas de dados, encapsulamento, gerenciamento de recursos, segurança, engenharia de software e programação web. As linguagens incluem C, Python e SQL, além de HTML, CSS e JavaScript. Conjuntos de problemas inspirados nas artes, humanidades, ciências sociais e ciências.
+
+[**Certificado verificado by edX**](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6757825465982951424)
 
 
 ## 🗃️ Funcionalidades
