@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Flask&message=framework&color=pink&style=flat&logo=flask"/>
   <img src="https://img.shields.io/static/v1?label=Python&message=language&color=blue&style=flat&logo=python"/>
-  <img src="https://img.shields.io/static/v1?label=SQLite&message=language&color=blue&style=flat&logo=sqlite"/>
+  <img src="https://img.shields.io/static/v1?label=SQLite&message=dados&color=black&style=flat&logo=sqlite"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=flat"/>
   <img src="http://img.shields.io/static/v1?label=Testes&message=100%&color=green&style=flat"/>
   <img src="http://img.shields.io/static/v1?label=Status&message=concluido&color=green&style=flat"/>
@@ -15,7 +15,7 @@
 
 <p align="center">
  <a href="#-Descrição-do-projeto">Sobre</a> •
- <a href="#-Especificação">Especificação</a> •
+ <a href="#-Funcionalidades">Funcionalidades</a> •
  <a href="#-Layout">Layout</a> • 
  <a href="#-Tecnologias">Tecnologias</a> • 
  <a href="#-Como-executar-o-jogo">Como executar</a> • 
@@ -34,15 +34,15 @@
 O CS50 é um curso gratuíto e online, estruturado em 12 semanas, oferecido pela Universidade de Harvard com muito conteúdo prático e desafios que levam o participante a aprender as bases do curso de ciência da computação e a arte da programação. Os tópicos incluem abstração, algoritmos, estruturas de dados, encapsulamento, gerenciamento de recursos, segurança, engenharia de software e programação web. As linguagens incluem C, Python e SQL, além de HTML, CSS e JavaScript. Conjuntos de problemas inspirados nas artes, humanidades, ciências sociais e ciências.
 
 
-## 🗃️ Especificação
+## 🗃️ Funcionalidades
 
-✔️ &nbsp; Cadastro de psicólogos profissionais na plataforma.
+✔️ &nbsp; Cadastro de psicólogos profissionais na plataforma
 
-✔️ &nbsp; Consulta de psicólogos profissionais de acordo com a abordagem. 
+✔️ &nbsp; Consulta de psicólogos profissionais de acordo com a abordagem 
 
-✔️ &nbsp; Permitir acesso multiplataforma.
+✔️ &nbsp; Permitir acesso multiplataforma
 
-✔️ &nbsp; Layout responsivo. 
+✔️ &nbsp; Layout responsivo
 
 
 ## 🎨 Layout Responsivo
